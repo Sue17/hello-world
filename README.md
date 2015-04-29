@@ -1,5 +1,5 @@
 # hello-world
-My first repository, following steps in the Hellow World GitHub Guide: https://guides.github.com/
+My first repository, following steps in the Hello World GitHub Guide: https://guides.github.com/
 4/29/15: Just found out how to make a branch and what that means -- I look forward to becoming GitHub proficient.
 There are several other guides -- I should do the following at the least:
 1 Getting your project on GitHub
